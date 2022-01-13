@@ -7,4 +7,4 @@ Amazon: https://docs.google.com/document/d/1KH9GVaUCET-y5SL5sg6DAnon9XwRRW-sPiyJ
 
 
 
-Ques doc Microsoft : https://docs.google.com/document/d/1sSyOTeZBVJExf0oytLVGk6Z34h1usFm4QRkr1Wb5ouk/edit
+Microsoft : https://docs.google.com/document/d/1sSyOTeZBVJExf0oytLVGk6Z34h1usFm4QRkr1Wb5ouk/edit
